@@ -1,0 +1,9 @@
+[submodule "backend_beTheHero"]
+	path = backend_beTheHero
+	url = https://github.com/VtrAlves/backend_beTheHero.git
+[submodule "frontend_beTheHero"]
+	path = frontend_beTheHero
+	url = https://github.com/VtrAlves/frontend_beTheHero.git
+[submodule "mobile_beTheHero"]
+	path = mobile_beTheHero
+	url = https://github.com/VtrAlves/mobile_beTheHero.git
